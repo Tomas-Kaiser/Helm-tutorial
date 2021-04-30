@@ -6,4 +6,6 @@ Helm is a package manager for Kubernetes.
 ![Helm workflow](./imgs/helm-workflow.png)
 
 Chart is a definition of the application.
-Release is an instance of that chart.
+Releas is an instance of that chart.
+
+Helm stores the released manifeste inside Kubernetes as secrets.
